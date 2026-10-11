@@ -1,44 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="455" viewBox="0 0 860 455" fill="none">
-  <rect width="860" height="455" rx="14" fill="#0e121a" stroke="#1f2838" stroke-width="1"/>
-  <style>
-    .mono {
-      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 12.5px;
-      line-height: 19px;
-      white-space: pre;
-    }
-    .ascii { fill: #8897ab; }
-    .usr   { fill: #58a6ff; font-weight: 600; }
-    .dim   { fill: #364152; }
-    .key   { fill: #e59544; }
-    .val   { fill: #cad5e2; }
-    .sec   { fill: #8897ab; }
-    .num   { fill: #58a6ff; }
-    .add   { fill: #3fb950; }
-    .del   { fill: #f85149; }
-  </style>
+<h1 align="center">𝕭𝖆𝖈𝖐𝖊𝖓</h1>
 
-  <text xml:space="preserve" class="mono">
-    <tspan x="28" y="38"><tspan class="ascii">                    =%@@@@@@@@#         </tspan><tspan class="usr">username@terminal</tspan><tspan class="dim"> ---------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">               @@@@@@@@@@@@@@@@@@-      </tspan><tspan class="dim">. </tspan><tspan class="key">OS:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Windows 11</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">               @@@@@@@@@@@@@@@@@@@@     </tspan><tspan class="dim">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">18 years, 6 months</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">             @@@@@@@.  .::%@@@@@@@@     </tspan><tspan class="dim">. </tspan><tspan class="key">Host:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Custom Rig / Laptop</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@@@               @@@@    </tspan><tspan class="dim">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Freshman Information Technology</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@@=    .::. :::.   @@@    </tspan><tspan class="dim">. </tspan><tspan class="key">IDE:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">VS Code 1.96, Neovim</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@+  =+:            *@@    </tspan><tspan class="dim">. </tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@  =   =@:  :@@  %@ @@    </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="dim"> .... </tspan><tspan class="val">JavaScript, Python, C++</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">             @@  :@@@@#.  --@@@*  @@    </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">HTML, CSS, JSON, Liquid</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            = @ .      =:-=   .-: @%#   </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">English, Filipino</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            *.*                   *.*   </tspan><tspan class="dim">. </tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            %##      -:@.%%-    . #%    </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Web Development, UI/UX</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">              =::.              ==*=    </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">PC Building, Overclocking</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                :   %@@##%@@@:.:*       </tspan><tspan class="sec">- Contact </tspan><tspan class="dim">----------------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                -=.           :=%       </tspan><tspan class="dim">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">your.name@gmail.com</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                 @=          .=@        </tspan><tspan class="dim">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">your-linkedin-username</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                 =*@@@%#*##*@@@:        </tspan><tspan class="dim">. </tspan><tspan class="key">Discord:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">your_discord_tag</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                -=-  :=@@@@@+-# @       </tspan><tspan class="sec">- GitHub Stats </tspan><tspan class="dim">-----------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">              @@@  *::     ==*  @@      </tspan><tspan class="dim">. </tspan><tspan class="key">Repos:</tspan><tspan class="dim"> ..... </tspan><tspan class="num">15</tspan><tspan class="val"> {Contributed: </tspan><tspan class="num">6</tspan><tspan class="val">} | </tspan><tspan class="key">Stars:</tspan><tspan class="dim"> ................. </tspan><tspan class="num">28</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">         *@@@@@@@    +--===#    @@@@@@  </tspan><tspan class="dim">. </tspan><tspan class="key">Commits:</tspan><tspan class="dim"> ................... </tspan><tspan class="num">312</tspan><tspan class="val"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dim"> ............. </tspan><tspan class="num">16</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">    -@@@@@@@@@@@@%             @@@@@@@@@</tspan><tspan class="dim">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dim"> .. </tspan><tspan class="num">48,260</tspan><tspan class="val"> ( </tspan><tspan class="add">41,120++</tspan><tspan class="val">, </tspan><tspan class="del">7,140--</tspan><tspan class="val"> )</tspan></tspan>
-  </text>
-</svg>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=21262d" alt="Profile Views" />
+</p>
+
+---
+
+| | |
+| :--- | :---: |
+| ◆ **Class** &nbsp;&nbsp;&nbsp;&nbsp; ➜ Backend / Full-Stack Apprentice<br><br>◆ **Origin** &nbsp;&nbsp;&nbsp; ➜ Philippines 🇵🇭 | <img src="https://media.giphy.com/media/YOUR_CROSS_GIF_ID/giphy.gif" width="160" alt="Cross"/> |
+
+### Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCODE-0d1117?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### Statistics
+
+| | |
+| :---: | :---: |
+| <img src="https://media.giphy.com/media/YOUR_AESTHETIC_GIF_ID/giphy.gif" width="230" alt="Aesthetic GIF"/> | <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&border=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" width="400" alt="Streak Stats"/> |
+
+---
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
