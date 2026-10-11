@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="455" viewBox="0 0 860 455" fill="none">
-  <rect width="860" height="455" rx="14" fill="#0e121a" stroke="#1f2838" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="910" viewBox="0 0 1020 910" fill="none">
+  <rect width="1020" height="910" rx="14" fill="#0e121a" stroke="#1f2838" stroke-width="1"/>
   <style>
     .mono {
       font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 12.5px;
-      line-height: 19px;
+      font-size: 11.5px;
+      line-height: 18px;
       white-space: pre;
     }
     .ascii { fill: #8897ab; }
@@ -15,30 +15,56 @@
     .sec   { fill: #8897ab; }
     .num   { fill: #58a6ff; }
     .add   { fill: #3fb950; }
-    .del   { fill: #f85149; }
+    .del   | fill: #f85149; }
   </style>
 
   <text xml:space="preserve" class="mono">
-    <tspan x="28" y="38"><tspan class="ascii">                    =%@@@@@@@@#         </tspan><tspan class="usr">username@terminal</tspan><tspan class="dim"> ---------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">               @@@@@@@@@@@@@@@@@@-      </tspan><tspan class="dim">. </tspan><tspan class="key">OS:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Windows 11, Linux (Ubuntu)</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">               @@@@@@@@@@@@@@@@@@@@     </tspan><tspan class="dim">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">18 years, 6 months</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">             @@@@@@@.  .::%@@@@@@@@     </tspan><tspan class="dim">. </tspan><tspan class="key">Host:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Custom Rig / Laptop</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@@@               @@@@    </tspan><tspan class="dim">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Freshman Information Technology</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@@=    .::. :::.   @@@    </tspan><tspan class="dim">. </tspan><tspan class="key">IDE:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">VS Code 1.96, Neovim</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@+  =+:            *@@    </tspan><tspan class="dim">. </tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            @@@  =   =@:  :@@  %@ @@    </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="dim"> .... </tspan><tspan class="val">JavaScript, Python, C++</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">             @@  :@@@@#.  --@@@*  @@    </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">HTML, CSS, JSON, Liquid</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            = @ .      =:-=   .-: @%#   </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">English, Filipino</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            *.*                   *.*   </tspan><tspan class="dim">. </tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">            %##      -:@.%%-    . #%    </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Web Development, UI/UX</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">              =::.              ==*=    </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">PC Building, Overclocking</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                :   %@@##%@@@:.:*       </tspan><tspan class="sec">- Contact </tspan><tspan class="dim">----------------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                -=.           :=%       </tspan><tspan class="dim">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">your.name@gmail.com</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                 @=          .=@        </tspan><tspan class="dim">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">your-linkedin-username</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                 =*@@@%#*##*@@@:        </tspan><tspan class="dim">. </tspan><tspan class="key">Discord:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">your_discord_tag</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">                -=-  :=@@@@@+-# @       </tspan><tspan class="sec">- GitHub Stats </tspan><tspan class="dim">-----------------------------------------</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">              @@@  *::     ==*  @@      </tspan><tspan class="dim">. </tspan><tspan class="key">Repos:</tspan><tspan class="dim"> ..... </tspan><tspan class="num">15</tspan><tspan class="val"> {Contributed: </tspan><tspan class="num">6</tspan><tspan class="val">} | </tspan><tspan class="key">Stars:</tspan><tspan class="dim"> ................. </tspan><tspan class="num">28</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">         *@@@@@@@    +--===#    @@@@@@  </tspan><tspan class="dim">. </tspan><tspan class="key">Commits:</tspan><tspan class="dim"> ................... </tspan><tspan class="num">312</tspan><tspan class="val"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dim"> ............. </tspan><tspan class="num">16</tspan></tspan>
-    <tspan x="28" dy="19"><tspan class="ascii">    -@@@@@@@@@@@@%             @@@@@@@@@</tspan><tspan class="dim">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dim"> .. </tspan><tspan class="num">48,260</tspan><tspan class="val"> ( </tspan><tspan class="add">41,120++</tspan><tspan class="val">, </tspan><tspan class="del">7,140--</tspan><tspan class="val"> )</tspan></tspan>
+    <tspan x="28" y="36"><tspan class="ascii">                                                   -@@@@@@@@@@@@=               </tspan><tspan class="usr">username@terminal</tspan><tspan class="dim"> ---------------------------------------</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan><tspan class="dim">. </tspan><tspan class="key">OS:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Windows 11, Linux (Ubuntu)</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       </tspan><tspan class="dim">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">18 years, 6 months</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                 @:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+      </tspan><tspan class="dim">. </tspan><tspan class="key">Host:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Custom Rig / Laptop</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan><tspan class="dim">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Freshman Information Technology</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan><tspan class="dim">. </tspan><tspan class="key">IDE:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">VS Code 1.96, Neovim</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan><tspan class="dim">. </tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                             @@@@@@@@@@@@@@@@=    =-*@*%%@@@@@@@@@@@@@@@@@@@@@  </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="dim"> .... </tspan><tspan class="val">JavaScript, Python, C++</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                           @@@@@@@@@@@: ::                        =@@@@@@@@@@@      </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">HTML, CSS, JSON, Liquid</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@@@@                                .@@@@@@@@@.       </tspan><tspan class="dim">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">English, Filipino</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@@@#  ..              .         ..    @@@@@@@@@        </tspan><tspan class="dim">. </tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@@@: :.                         ..... .@@@@@@@@         </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Web Development, UI/UX</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@@%-.. ...::::::::..    ..:::::::::.  :@@@@@@@@         </tspan><tspan class="dim">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">PC Building, Overclocking</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@@  .::.     ...  .:..:..  ..::-.:::::.=@@@@@@@        </tspan><tspan class="sec">- Contact </tspan><tspan class="dim">----------------------------------------------</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@@                                    .  @@@@@@@         </tspan><tspan class="dim">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">your.name@gmail.com</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @@@@@@@     :@@@@@@@@@               @@@@@@%    @@@@@@          </tspan><tspan class="dim">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">your-linkedin-username</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                           @@@@@    +@@=       %@@@:       @@@@@@@@@@@@@:  @@@@@        </tspan><tspan class="dim">. </tspan><tspan class="key">Discord:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">your_discord_tag</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                            @@@@  .                =:.:::=#=           *:  @@@@         </tspan><tspan class="sec">- GitHub Stats </tspan><tspan class="dim">-----------------------------------------</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                            @@@@  .:.   .%@@@@@@@::=.    *+.:=*%*=@#       :@@=             </tspan><tspan class="dim">. </tspan><tspan class="key">Repos:</tspan><tspan class="dim"> ..... </tspan><tspan class="num">15</tspan><tspan class="val"> {Contributed: </tspan><tspan class="num">6</tspan><tspan class="val">} | </tspan><tspan class="key">Stars:</tspan><tspan class="dim"> ................. </tspan><tspan class="num">28</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @*@@@@  ::..+@@@ :@@@  @  .    # *@ @@@@%@@%=:-  =@@#      </tspan><tspan class="dim">. </tspan><tspan class="key">Commits:</tspan><tspan class="dim"> ................... </tspan><tspan class="num">312</tspan><tspan class="val"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dim"> ............. </tspan><tspan class="num">16</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @  :@@  .:.::==-:   :=-  :-:  :#.  ::    %@@%--: %@@#@*  </tspan><tspan class="dim">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dim"> .. </tspan><tspan class="num">48,260</tspan><tspan class="val"> ( </tspan><tspan class="add">41,120++</tspan><tspan class="val">, </tspan><tspan class="del">7,140--</tspan><tspan class="val"> )</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @:   @  .:               :-.  :+:    ..:-.   .-: @@  =.</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                         %@   %@.  .              =+=. .:%*:            .: @+  @@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @ :.=*:  .             +*.      *%-          ..  @=  @:</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @ @  :=              -             :         .:. @   @</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                          @+-% :: : .         .@: @@@#=*@@@  *.       . :. @ :=@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                           @@=+++ ..            ::         =+        :::: :@%*@+</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                            ===@@...:..                 :-           .::-:@*@@@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                 :.:. .       ::                 .    :::=</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                  :         :@@:@@@%@@@@@%%@==@@  -.:::-++</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                  +.        .+@@@@*:    .=@@@@@+  ::::.:#</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                  -=  ::             :=:          ..:..+%</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                   **.  .:                      ::::.:=@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                    =+.:::.                  .: ::+-:=@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                     @.-:.                   ...:-=-=@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                     @+@#=:               .:   . :=:#@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                     @..=@@@%=          :     .-+@@#%*</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                     %-...:*@@@@@@@@@@@@%%%%@@@@@*::#</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                    @ * .     :=@@@@@@@@@@@@@#==.: :%@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                   @= @=  .. .      .-=-.  ...::.-:=@ @@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                                 *@@   @*.  .::..          :::::  +@   @@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                               @@@@@     %+  .::..:     -::::: :=@%   :@@@@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                           @@@@@@@@@@      +=: :::-=::=+-.:-:-*%.     @@@@@@@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                     %@@@@@@@@@@@@@@@        -%-    .:.    *%*       *@@@@@@@@@@@@</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">                @@@@@@@@@@@@@@@@@@@@@@          ##-    .=%%          @@@@@@@@@@@@@@@@@@*</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">           %@@@@@@@@@@@@@@@@@@@@@@@@@@@           .%%*#+:           @@@@@@@@@@@@@@@@@@@@@@@@-</tspan></tspan>
+    <tspan x="28" dy="18"><tspan class="ascii">     =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></tspan>
   </text>
 </svg>
