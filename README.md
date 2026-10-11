@@ -1,38 +1,21 @@
-<h1 align="center">𝕭𝖆𝖈𝖐𝖊𝖓</h1>
+# 💫 About Me:
+🔭 I'm currently working on my portfolio website and an LLM cost-control tool (routing, budgets, caching, and spend reports)<br>👯 I'm looking to collaborate on web development projects and AI/ML side projects<br>🤝 I'm looking for help with building real-world projects and breaking into AI training and evaluation work<br>🌱 I'm currently learning machine learning through IBM and Google AI courses, and growing my web dev skills<br>💬 Ask me about QA/app testing, building attendance systems, or getting started in IT as a freelancer<br>⚡ Fun fact: I've completed several freelance testing jobs on Upwork, all rated 5.0
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=21262d" alt="Profile Views" />
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Herz Emmanuel Medellin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ defnot_herzyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Herz Emmanuel Medellin) 
 
-| | |
-| :--- | :---: |
-| ◆ **Class** &nbsp;&nbsp;&nbsp;&nbsp; ➜ Backend / Full-Stack Apprentice<br><br>◆ **Origin** &nbsp;&nbsp;&nbsp; ➜ Philippines 🇵🇭 | <img src="https://media.giphy.com/media/YOUR_CROSS_GIF_ID/giphy.gif" width="160" alt="Cross"/> |
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HerzsheysCoding&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=HerzsheysCoding&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HerzsheysCoding&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCODE-0d1117?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HerzsheysCoding&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HerzsheysCoding&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Statistics
-
-| | |
-| :---: | :---: |
-| <img src="https://media.giphy.com/media/YOUR_AESTHETIC_GIF_ID/giphy.gif" width="230" alt="Aesthetic GIF"/> | <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&border=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" width="400" alt="Streak Stats"/> |
-
----
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
